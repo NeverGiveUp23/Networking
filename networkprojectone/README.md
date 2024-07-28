@@ -18,3 +18,4 @@ In department Delivery, I set the ranges from 192.168.40.129-192.168.40.254 with
 ![Screenshot 2024-07-27 at 11 29 09 PM](https://github.com/user-attachments/assets/4104fd49-d044-4ed3-b3ba-5b364d271d08)
 ![Screenshot 2024-07-27 at 11 42 42 PM](https://github.com/user-attachments/assets/6f9515e0-097d-4f61-bb72-0e67c95174f1)
 ![Screenshot 2024-07-27 at 11 44 02 PM](https://github.com/user-attachments/assets/d26211c3-0208-4107-9ef3-448823e2b584)
+![Screenshot 2024-07-27 at 11 45 58 PM](https://github.com/user-attachments/assets/cc98a6db-3a61-4a4b-b3c2-faca82ca6c78)
