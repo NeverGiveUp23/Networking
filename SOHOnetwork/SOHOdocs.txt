@@ -1,0 +1,41 @@
+We need 3 subnets for each department and 3 vlans due to one switch connection
+
+
+Base network: 192.168.1.0
+No. of subnets > 3
+No. of Subnets > 2^n=3 (we can use 3 or more, due to the formula we can't use n=1 due to less subnets so we will use n=2, this will give us 4 subnets - we rather have more than less.)
+
+Borrowing bits for the subnets - 11111111.11111111.11111111.11000000 (11000000 = the 2 borrowed subnets which is 192 with a 64 IP range).
+
+New Subnet is 255.255.255.192
+
+1st Subnet:
+
+Network ID:192.168.1.0
+
+
+Broadcast ID:192.168.1.63
+
+Host Range:192.168.1.1 - 192.168.1.62
+
+
+
+
+2nd Subnet:
+
+
+
+Network ID: 192.168.1.64
+
+Broadcast ID: 192.168.1.127
+
+Host Range: 192.168.1.65 - 192.168.1.126
+
+3rd Subnet:
+
+
+Network ID: 192.168.1.128
+
+Broadcast ID: 192.168.1.191
+
+Host Range: 192.168.1.129 - 192.168.1.190
